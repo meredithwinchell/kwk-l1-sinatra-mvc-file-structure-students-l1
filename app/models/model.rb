@@ -30,8 +30,9 @@ class Dog
   end
 
   def self.all
+    all = [@name]
   end
 
-  all = [@name]
+
 
 end
