@@ -1,3 +1,6 @@
-class Model
+class Dog
+
   # Replace with Dog clas
+  
+  
 end
